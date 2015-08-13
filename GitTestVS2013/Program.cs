@@ -17,6 +17,9 @@ namespace GitTestVS2013
             Console.Write("rainy");
 
             Console.ReadKey();
+            Console.ReadKey();
+            Console.ReadKey();
+            Console.ReadKey();
         }
     }
 }
