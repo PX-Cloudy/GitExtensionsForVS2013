@@ -11,6 +11,7 @@ namespace GitTestVS2013
         public static void Main(String[] args)
         {
             Console.Write("cloudy");
+            Console.Write("windy");
         }
     }
 }
