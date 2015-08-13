@@ -14,6 +14,7 @@ namespace GitTestVS2013
             Console.Write("windy");
             Console.Write("snowy");
             Console.Write("sunny");
+            Console.Write("rainy");
         }
     }
 }
