@@ -10,7 +10,8 @@ namespace GitTestVS2013
     {
         public static void Main(String[] args)
         {
-            Console.Read();
+            Console.Write("cloudy");
+            Console.Write("windy");
         }
     }
 }
