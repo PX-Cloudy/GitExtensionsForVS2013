@@ -10,7 +10,11 @@ namespace GitTestVS2013
     {
         public static void Main(String[] args)
         {
+<<<<<<< HEAD
             Console.WriteLine();
+=======
+            Console.ReadLine();
+>>>>>>> GitExtensionsForVS2013/master
         }
     }
 }
